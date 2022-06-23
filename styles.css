@@ -1,0 +1,135 @@
+html {
+    background-color: lightblue;
+    font-family: "Bebas Neue", cursive;
+}
+
+.div1{
+    background-color: white;
+    margin: 60px;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    border: 10px solid black;
+}
+
+.div2{
+    background-color: white;
+    margin: 60px;
+    padding-bottom: 10px;
+    border: 10px solid black;
+}
+
+.div3{
+    background-color: white;
+    border: 10px solid black;
+    margin: 50px;
+}
+
+.div4{
+    background-color: white;
+    border: 10px solid black;
+    margin: 50px;
+}
+
+.div5{
+    background-color: white;
+    border: 10px solid black;
+    padding-top: 15px;
+    margin: 50px;
+}
+
+p {
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+}
+
+.school {
+    color: blue;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 70px;
+}
+
+ul {
+    color: blue;
+    font-size: 30px;
+    display: table;
+    margin-left: 80px;
+}
+
+ol {
+    color: blue;
+    display: table;
+    font-size: 30px;
+    margin-left: 80px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: left;
+    font-size: 100px;
+    margin-left: 90px;
+}
+
+h2 {
+    color: blue;
+    text-align: left;
+    margin-left: 120px;
+    margin-top: -30px;
+    font-size: 35px;
+}
+
+h3 {
+    color: darkblue;
+    text-align: left;
+    font-size: 35px;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+
+h4 {
+    color: darkorange;
+    text-align: center;
+    font-size: 30px;
+}
+
+a {
+    color: purple;
+}
+
+.avatar {
+    display: block;
+    border: 3px solid blue;
+    background-color: black;
+    margin-top: 60px;
+    margin-right: 60px;
+    float: right;
+}
+
+.brebeuf{
+    display: block;
+    float:right;
+    margin-right: 80px;
+    margin-top: 20px;
+}
+
+.pvz {
+    display: block;
+    float: right;
+    margin-right: 80px;
+    margin-top:-30px;
+}
+
+.sleep {
+    display: block;
+    float: right;
+    margin-right: 160px;
+    margin-top: -30px;
+}
+
+.internet {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+}
